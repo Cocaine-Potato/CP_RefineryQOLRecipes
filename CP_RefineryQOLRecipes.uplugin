@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "QOL Refinery Recipes",
+	"Description": "This is a mod that adds recipes for double output for the refinery, so instead of getting 2 outputs, you only get 1, so it doesnt break the efficiency if 1 of the original 2 outputs fills up because its not getting used",
+	"Category": "Modding",
+	"CreatedBy": "Cocaine_Potato",
+	"CreatedByURL": "https://cocainepotato.carrd.co/",
+	"DocsURL": "https://docs.ficsit.app/contentlib/latest/index.html",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.4.1"
+		},
+		{
+			"Name": "ContentLib",
+			"Enabled": true,
+			"SemVersion": "^1.0.2"
+		}
+	]
+}

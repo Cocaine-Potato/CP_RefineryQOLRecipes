@@ -1,0 +1,14 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+    "Name": "QOL Refinery Recipes",
+    "Type": "Milestone",
+    "Tier": 1,
+    "Category": "CP_RefineryQOLRecipes",
+    "Recipes": [
+        "Recipe_FuelRecipe",
+        "Recipe_HeavyOilResidueRecipe",
+        "Recipe_PlasticRecipe",
+        "Recipe_PolymerResinRecipe",
+        "Recipe_RubberRecipe"
+    ]
+}

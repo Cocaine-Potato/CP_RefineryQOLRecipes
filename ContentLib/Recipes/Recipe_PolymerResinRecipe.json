@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Rubber",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidOil",
+            "Amount": 6000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_PolymerResin",
+            "Amount": 12
+        }
+    ],
+    "ManufacturingDuration": 3,
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ]
+}
