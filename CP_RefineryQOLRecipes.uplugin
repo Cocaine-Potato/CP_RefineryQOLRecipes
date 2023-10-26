@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.2",
-	"SemVersion": "1.0.2",
+	"VersionName": "1.0.3",
+	"SemVersion": "1.0.3",
 	"FriendlyName": "QOL Refinery Recipes",
 	"Description": "This is a mod that adds recipes for double output for the refinery, so instead of getting 2 outputs, you only get 1, so it doesnt break the efficiency if 1 of the original 2 outputs fills up because its not getting used",
 	"Category": "Modding",

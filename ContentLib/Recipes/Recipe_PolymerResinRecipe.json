@@ -16,5 +16,6 @@
     "ManufacturingDuration": 3,
     "ProducedIn": [
         "Build_OilRefinery"
-    ]
+    ],
+    "OverrideCategory": "QOL_Refinery_Recipes"
 }
